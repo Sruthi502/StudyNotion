@@ -1,3 +1,4 @@
+ HEAD
 # Study Notion
 
 Study Notion is an ED Tech (Education Technology) web application developed using the MERN stack.
@@ -77,3 +78,6 @@ This project is intended as a learning tool and can be used as a sample project 
 5. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
 
 The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
+# StudyNotion
+StudyNotion is an ed-tech platform built on the MERN stack that offers personalized, interactive learning experiences. Students can access educational content, collaborate with peers, and rate resources, while instructors can share their expertise globally. It integrates quizzes, discussions, and ratings for enhanced engagement.
+9af125e96cb0bb4c83318059b1b8be62c76dc1e2
